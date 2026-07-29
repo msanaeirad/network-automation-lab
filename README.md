@@ -1,7 +1,8 @@
-# network-automation-lab
+# Network Automation Lab
 
+## About
 
-Hands-on projects focused on:
+This repository contains hands-on labs and automation projects focused on:
 
 - Python for Network Automation
 - MikroTik Automation
@@ -9,8 +10,16 @@ Hands-on projects focused on:
 - Network Inventory
 - Infrastructure as Code
 
-Projects:
+## Planned Projects
 
 1. MikroTik Backup Automation
 2. Network Device Inventory
 3. Python SSH Automation
+
+## Technologies
+
+- Python
+- MikroTik RouterOS
+- Linux
+- SSH
+- Git
